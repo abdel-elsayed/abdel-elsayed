@@ -14,3 +14,7 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=abdel-elsayed&repo=React-Pomodoro-Clock)](https://github.com/abdel-elsayed/React-Pomodoro-Clock)
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=abdel-elsayed&repo=Pokemon-Game)](https://github.com/abdel-elsayed/Pokemon-Game)
+
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=abdel-elsayed&repo=Tip-Calculator)](https://github.com/abdel-elsayed/Tip-Calculator)
+
