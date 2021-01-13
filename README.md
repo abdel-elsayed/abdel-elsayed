@@ -13,6 +13,13 @@
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=abdel-elsayed&repo=React-Pomodoro-Clock)](https://github.com/abdel-elsayed/React-Pomodoro-Clock)
 
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=abdel-elsayed&repo=react-city-search)](https://github.com/abdel-elsayed/react-city-search)
+
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=abdel-elsayed&repo=react-zip-code-search)](https://github.com/abdel-elsayed/react-zip-code-search)
+
+
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=abdel-elsayed&repo=Pokemon-Game)](https://github.com/abdel-elsayed/Pokemon-Game)
 
 
