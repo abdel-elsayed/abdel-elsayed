@@ -3,9 +3,9 @@
 ### LinkedIn:
 (https://www.linkedin.com/in/abdelrahman-elsayed-318539145/) 
 
-![Abdel's github stats](https://github-readme-stats.vercel.app/api?username=abdel-elsayed&show_icons=true&theme=vue)
+![Abdel's github stats](https://github-readme-stats.vercel.app/api?username=abdel-elsayed&show_icons=true&theme=omni)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdel-elsayed&layout=compact&theme=vue)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdel-elsayed&layout=compact&theme=omni)
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=abdel-elsayed&repo=Lemonade-E-Commerce-Website)](https://github.com/abdel-elsayed/Lemonade-E-Commerce-Website)
 
