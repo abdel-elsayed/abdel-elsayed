@@ -1,11 +1,9 @@
 ### Hi there 👋
 
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdelrahman-elsayed-318539145/)
 
-### Personal Website 🧳 :
-(https://abdelrahman-elsayed.netlify.app) 
+[![Personal website Badge](https://img.shields.io/badge/Personal%20website-Abdelrahman--elsayed-critical)](https://abdelrahman-elsayed.netlify.app/Home)
 
-### LinkedIn:
-(https://www.linkedin.com/in/abdelrahman-elsayed-318539145/) 
 
 ![Abdel's github stats](https://github-readme-stats.vercel.app/api?username=abdel-elsayed&show_icons=true&theme=prussian)
 
