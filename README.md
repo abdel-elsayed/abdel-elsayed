@@ -5,6 +5,6 @@
 [![Personal website Badge](https://img.shields.io/badge/Personal%20website-Abdelrahman--elsayed-critical)](https://abdelrahman-elsayed.netlify.app/Home)
 
 
-![Abdel's github stats](https://github-readme-stats.vercel.app/api?username=abdel-elsayed&show_icons=true&theme=prussian)
+![Abdel's github stats](https://github-readme-stats.vercel.app/api?username=abdel-elsayed&show_icons=true&theme=chartreuse-dark)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdel-elsayed&layout=compact&theme=prussian)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdel-elsayed&layout=compact&theme=chartreuse-dark)
